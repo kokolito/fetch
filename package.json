@@ -1,7 +1,7 @@
 {
   "name": "fetch",
   "version": "0.1.0",
-  "homepage": "https://github.com/kokolito/fetch",
+  "homepage": "https://kokolito.github.io/fetch",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
