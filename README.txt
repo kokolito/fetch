@@ -3,7 +3,7 @@ The github of this project: https://github.com/gitdagray/react_fetch_data_challe
 To deploy on github:
     npm i gh-pages -D
     add the following line in the "package.json" file:
-        "homepage": "https://github.com/kokolito/fetch.git",
+        "homepage": "https://github.com/kokolito/fetch",
     add the two following lines in the "package.json" file (just before the line ///"start": "react-scripts start",///):
         "predeploy": "npm run build",
         "deploy": "gh-pages -d build",
@@ -19,4 +19,4 @@ To deploy on github:
             git remote add origin https://github.com/kokolito/fetch.git
             git branch -M main
             git push -u origin main
-    Go to the new website: https://github.com/kokolito/fetch.git .
+    Go to the new website: https://github.com/kokolito/fetch .
