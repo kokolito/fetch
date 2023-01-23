@@ -1,7 +1,7 @@
 {
   "name": "fetch",
   "version": "0.1.0",
-  "homepage": "https://kolia.be/it/.react/fetch/",
+  "homepage": "https://github.com/kokolito/fetch.git",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
