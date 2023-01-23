@@ -20,5 +20,5 @@ To deploy on github:
             git branch -M main
             git push -u origin main
     Deploy:
-        npm run build
+        npm run deploy
     Go to the new website: https://kokolito.github.io/fetch .
